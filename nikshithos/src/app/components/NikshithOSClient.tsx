@@ -164,7 +164,7 @@ export default function NikshithOSClient() {
                 <span className="font-mono text-[11px] text-muted-foreground tracking-widest">NIKSHITH_OS © 2026</span>
               </div>
               <div className="flex items-center gap-6 font-mono text-[11px] text-muted-foreground">
-                <a href="https://github.com/nikshithkyathrigi" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors">GitHub</a>
+                <a href="https://github.com/nik-nam-is-nani" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors">GitHub</a>
                 <a href="mailto:nikshithkyathrigi2005@gmail.com" className="hover:text-primary transition-colors">Email</a>
                 <a href="#" className="hover:text-primary transition-colors">Privacy</a>
                 <a href="#" className="hover:text-primary transition-colors">Terms</a>

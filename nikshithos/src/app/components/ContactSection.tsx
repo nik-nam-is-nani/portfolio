@@ -16,7 +16,7 @@ const CONTACT_CHANNELS = [
     id: 'github',
     label: 'GitHub',
     handle: 'nikshithkyathrigi',
-    url: 'https://github.com/nikshithkyathrigi',
+    url: 'https://github.com/nik-nam-is-nani',
     color: '#00E5FF',
     icon: (
       <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
@@ -29,7 +29,7 @@ const CONTACT_CHANNELS = [
     id: 'huggingface',
     label: 'HuggingFace',
     handle: 'nikshith',
-    url: 'https://huggingface.co/nikshith',
+    url: 'https://huggingface.co/nik0name0is0nani',
     color: '#FF6B2B',
     icon: (
       <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
@@ -42,7 +42,7 @@ const CONTACT_CHANNELS = [
     id: 'linkedin',
     label: 'LinkedIn',
     handle: 'nikshith-kyatherigi',
-    url: 'https://linkedin.com/in/nikshith-kyatherigi',
+    url: 'https://www.linkedin.com/in/k-nikshith-b4b8b42ba/',
     color: '#A855F7',
     icon: (
       <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
