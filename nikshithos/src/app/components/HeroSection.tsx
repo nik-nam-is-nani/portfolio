@@ -368,7 +368,8 @@ export default function HeroSection() {
               <h1
                 className="hero-title-main text-foreground glitch-text"
                 data-text="NIKSHITH"
-                onTripleClickCapture={() => {
+                onClickCapture={(event) => {
+                  if (event.detail !== 3) return;
                   const el = document.createElement('div');
                   el.style.cssText = 'position:fixed;top:50%;left:50%;transform:translate(-50%,-50%);z-index:99999;font-family:var(--font-display);font-size:1.5rem;color:var(--primary);background:rgba(3,3,3,0.95);border:1px solid var(--primary);padding:1.5rem 3rem;letter-spacing:0.3em;pointer-events:none;';
                   el.textContent = 'IDENTITY CONFIRMED';

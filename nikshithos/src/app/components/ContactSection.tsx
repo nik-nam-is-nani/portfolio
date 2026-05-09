@@ -148,8 +148,8 @@ export default function ContactSection() {
       ctx.stroke();
 
       // Sweep
-      const sweepGrad = ctx.createConicalGradient
-        ? ctx.createConicalGradient(cx, cy, radarAngleRef.current)
+      const sweepGrad = ctx.createConicGradient
+        ? ctx.createConicGradient(radarAngleRef.current, cx, cy)
         : null;
 
       if (!sweepGrad) {
